@@ -1,0 +1,8 @@
+build/
+*.whl
+*.so
+*.idea/
+*.pyd
+*egg-info/*
+dist/
+wheelhouse/
